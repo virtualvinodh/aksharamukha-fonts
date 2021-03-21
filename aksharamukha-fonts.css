@@ -1,0 +1,217 @@
+   @import url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-notomirror/aksharamukha-notomirror.css');
+
+  @font-face {
+    font-family: 'Vimala';
+    src: url('https://cdn.jsdelivr.net/gh/longnow/bali-fonts/release/Vimala.ttf')
+  }
+
+  @font-face {
+    font-family: 'e-Grantamil';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/e-Grantamil.ttf')
+  }
+  @font-face {
+    font-family: 'Noto Sans ChakmaPali';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/chakmapali.otf')
+  }
+  @font-face {
+    font-family: 'Pangururan';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts//Pangururan.ttf')
+  }
+  @font-face {
+    font-family: 'Noto Sans Grantha2';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/NotoSansGrantha-RegularZach.otf')
+  }
+  @font-face {
+    font-family: 'Noto Serif Grantha';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/NotoSerifGrantha-RegularZach.otf')
+  }
+  @font-face {
+    font-family: 'Muktamsiddham';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Muktamsiddham.otf')
+  }
+  @font-face {
+    font-family: 'MuktamsiddhamG';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/MuktamsiddhamG.ttf')
+  }
+  @font-face {
+    font-family: 'ApDevaSiddham';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/ApDevaSiddham.ttf')
+  }
+
+  @font-face {
+    font-family: 'Nepal2';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Nepal-lipi2.woff')
+  }
+
+  @font-face {
+    font-family: 'BabelStoneZanabazar';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/BabelStoneZanabazar.woff')
+  }
+
+  @font-face {
+    font-family: 'Noto Sans Zanabazar Square';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/NotoSansZanabazarSquare-Regular.otf')
+  }
+
+  @font-face {
+    font-family: 'Adinatha Tamil Brahmi';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/AdinathaTamilBrahmi2.otf')
+  }
+
+  @font-face {
+    font-family: 'Kharoshthi Ka';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/ka-khar.otf')
+  }
+  @font-face {
+    font-family: 'Meera';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Meera-Regular.ttf')
+  }
+  @font-face {
+    font-family: 'Lao Pali';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Lanexang_Mon4.otf')
+  }
+  @font-face {
+    font-family: 'Khamti Regular';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Khamti-Regular.otf')
+  }
+  @font-face {
+    font-family: 'Kaccayana Thai';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/KaccayanaThai.otf')
+  }
+  @font-face {
+    font-family: 'Aazhvaar Telugu';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/AazhvaarTelugu.otf')
+  }
+  @font-face {
+    font-family: 'MithilaUni';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/MithilaUni.ttf')
+  }
+  @font-face {
+    font-family: 'e-Vatteluttu';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/e-VatteluttuOT.ttf')
+  }
+  @font-face {
+    font-family: 'e-Pandya';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/e-Pandya.ttf')
+  }
+  @font-face {
+    font-family: 'JMYZK--LZT Lantsa';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/JMYZK--LZT.ttf')
+  }
+  @font-face {
+    font-family: 'JMYZK--WDT Wartu';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/JMYZK--WDT.ttf')
+  }
+  @font-face {
+    font-family: 'PaliTilok';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Pali_Tilok.ttf')
+  }
+  @font-face {
+    font-family: 'Lamphun';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Pali_Khottabun.ttf')
+  }
+  @font-face {
+    font-family: 'Tibetan Dbu Med';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Qomolangma-Betsu.ttf')
+  }
+  @font-face {
+    font-family: 'Patimokkha';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Patimokkha.ttf')
+  }
+  @font-face {
+    font-family: 'Ariyaka';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/ariyaka.TTF')
+  }
+  @font-face {
+    font-family: 'Ariyaka';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/ariyaka.TTF')
+  }
+  @font-face {
+    font-family: 'Mukta Malar Regular';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/MuktaMalar-Regular.ttf')
+  }
+  @font-face {
+    font-family: 'A Tai Tham KH New';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/A-Tai-Tham-KH-New-V2.ttf')
+  }
+
+  @font-face {
+    font-family: 'RanjanaUnicode';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/RanjanaUNICODE1.0.TTF')
+  }
+
+  @font-face {
+    font-family: 'BabelStone PhagsPa TibA';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/BabelStonePhagspaTibetanA_v2.ttf')
+  }
+
+  @font-face {
+    font-family: 'BabelStone PhagsPa Seal';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/BabelStonePhagspaSeal_v1.ttf')
+  }
+
+  @font-face {
+    font-family: 'Dejavu Sans';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/DejaVuSans.ttf');
+  }
+
+  @font-face {
+    font-family: 'BabelStone PhagsPa Book';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/BabelStonePhagspaBook_v2.ttf')
+  }
+
+  @font-face {
+    font-family: 'Lohit Oriya Vedic';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Lohit-Oriya-Vedic.otf')
+  }
+
+  @font-face {
+    font-family: 'Noto Sans Bengali Vedic';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/NotoSansBengali-Vedic.otf')
+  }
+
+  @font-face {
+    font-family: 'Noto Sans Gujarati Vedic';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/NotoSansGujarati-Vedic.otf')
+  }
+
+  @font-face {
+    font-family: 'Noto Sans Gurmukhi Vedic';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/NotoSansGurmukhi-Vedic.otf')
+  }
+
+  @font-face {
+    font-family: 'Agastya Extended Tamil';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/AgastyaExtendedTamil.otf')
+  }
+
+  @font-face {
+    font-family: 'Agastya Serif';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/AgastyaSerif.otf')
+  }
+
+  @font-face {
+    font-family: 'Noto Sans MarchenB';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/BabelStoneMarchen.ttf')
+  }
+
+  @font-face {
+    font-family: 'Pali TaiLue';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts//Pali_TaiLue.ttf')
+  }
+
+  @font-face {
+    font-family: 'MQG8F02';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/MQG8F02.ttf')
+
+  }
+
+  @font-face {
+    font-family: 'GreatHorKham_Taunggyi';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts//GreatHorKham_Taunggyi.ttf')
+  }
+
+  @font-face {
+    font-family: 'Noto Serif Hebrew';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts//NotoSerifHebrew-Regular.ttf')
+  }
