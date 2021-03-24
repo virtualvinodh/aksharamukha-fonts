@@ -21,6 +21,11 @@
   }
 
   @font-face {
+    font-family: 'JainiPurva-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/JainiPurva-Regular.ttf')
+  }
+
+  @font-face {
     font-family: 'e-Grantamil';
     src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/e-Grantamil.ttf')
   }
