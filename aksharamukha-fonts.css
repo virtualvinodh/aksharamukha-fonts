@@ -6,6 +6,41 @@
   }
 
   @font-face {
+    font-family: 'Satisar Sharada';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/satisarsharada/Sharada.ttf');
+  }
+
+  @font-face {
+    font-family: 'Lao Pali New';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Lao-Pali-Regular.ttf')
+  }
+
+  @font-face {
+    font-family: 'Lao Pali Sajjhaya New';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Lao-Sajjhaya-Phonetic-New.ttf')
+  }
+
+  @font-face {
+    font-family: 'Kawitan';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Kawitan.ttf')
+  }
+
+  @font-face {
+    font-family: 'Purnawarman';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Purnawarman_1.ttf')
+  }
+
+  @font-face {
+    font-family: 'Sundapura';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/adn_Sundapura_1584765876.ttf')
+  }
+
+  @font-face {
+    font-family: 'Tantular Kawi';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/TantularKawi.ttf')
+  }
+
+  @font-face {
     font-family: 'chandas';
     src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/chandas.ttf')
   }
