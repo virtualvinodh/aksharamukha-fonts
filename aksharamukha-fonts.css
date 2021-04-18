@@ -12,12 +12,12 @@
 
   @font-face {
     font-family: 'Lao Pali New';
-    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Lao-Pali-Regular.ttf')
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Lao-Pali-Regular.otf')
   }
 
   @font-face {
     font-family: 'Lao Pali Sajjhaya New';
-    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Lao-Sajjhaya-Phonetic-New.ttf')
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Lao-Sajjhaya-Phonetic-New.otf')
   }
 
   @font-face {
