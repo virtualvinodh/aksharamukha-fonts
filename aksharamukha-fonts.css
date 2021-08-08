@@ -136,7 +136,7 @@
   }
   @font-face {
     font-family: 'Aazhvaar Telugu';
-    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/AazhvaarTelugu.otf')
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aazhvaar-telugu/AazhvaarTelugu.otf')
   }
   @font-face {
     font-family: 'MithilaUni';
@@ -238,12 +238,12 @@
 
   @font-face {
     font-family: 'Agastya Extended Tamil';
-    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/AgastyaExtendedTamil.otf')
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/agastya-tamil-extended/agastya_sans.otf')
   }
 
   @font-face {
     font-family: 'Agastya Serif';
-    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/AgastyaSerif.otf')
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/agastya-tamil-extended/agastya_serif.otf')
   }
 
   @font-face {
