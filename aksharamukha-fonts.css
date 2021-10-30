@@ -271,3 +271,9 @@
     font-family: 'Noto Serif Hebrew';
     src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts//NotoSerifHebrew-Regular.ttf')
   }
+
+  @font-face {
+    font-family: 'Nandinagari Uni';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/NandinagariUni.ttf')
+
+  }
