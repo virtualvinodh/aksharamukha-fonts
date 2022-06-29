@@ -1,5 +1,15 @@
    @import url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-notomirror/aksharamukha-notomirror.css');
 
+   @font-face {
+    font-family: 'Tiro Telugu';
+    src: url('https://cdn.jsdelivr.net/gh/TiroTypeworks/Indigo/fonts/TiroTelugu/OTF/TiroTelugu-Regular.otf')
+  }
+
+  @font-face {
+    font-family: 'Tiro Kannada';
+    src: url('https://cdn.jsdelivr.net/gh/TiroTypeworks/Indigo/fonts/TiroKannada/OTF/TiroKannada-Regular.otf')
+  }
+
   @font-face {
     font-family: 'Vimala';
     src: url('https://cdn.jsdelivr.net/gh/longnow/bali-fonts/release/Vimala.ttf')
