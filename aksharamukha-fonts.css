@@ -133,6 +133,10 @@
     src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Meera-Regular.ttf')
   }
   @font-face {
+    font-family: 'Anjali Old Lipi';
+    src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/AnjaliOldLipi.ttf')
+  }
+  @font-face {
     font-family: 'Lao Pali';
     src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/Lanexang_Mon4.otf')
   }
