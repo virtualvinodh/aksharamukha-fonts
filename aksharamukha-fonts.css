@@ -297,7 +297,7 @@
     src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/adn_Salapa Jangang_1586821524.ttf')
   }
 
-  @font-face {
+  /* @font-face {
     font-family: 'Noto Sans Syriac Eastern';
     src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/NotoSansSyriacEastern-Regular.ttf');
   }
@@ -310,7 +310,7 @@
   @font-face {
     font-family: 'Noto Sans Syriac Estrangela';
     src: url('https://cdn.jsdelivr.net/gh/virtualvinodh/aksharamukha-fonts/NotoSansSyriacEstrangela-Regular.ttf');
-  }
+  }*/
 
   @font-face {
     font-family: 'Open Baybayin';
